@@ -16,5 +16,4 @@ The app takes building criteria input from the user:
 
 and then calculates and outputs the design requirements for the building to be at a comfortable interior temperature and energy-efficient based on the principles of thermal massing coupled with buoyancy ventilation in a thermal feedback loop.
 
-
-[CarolineZhangA3panel -A2.pdf](https://github.com/carolinez21/build-and-go-camps/files/8344238/CarolineZhangA3panel.-A2.pdf)
+![Build   Go guide](https://user-images.githubusercontent.com/92185211/159982851-2ddfe869-ab48-4404-8062-2e438013255d.jpg)
